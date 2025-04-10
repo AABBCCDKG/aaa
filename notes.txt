@@ -1,0 +1,5 @@
+Time to write without buffering: 0.539484 secs
+Time to write with buffering: 0.014616 secs
+
+Time to read without buffering: 0.612619 secs
+Time to read with buffering: 0.094310 secs
